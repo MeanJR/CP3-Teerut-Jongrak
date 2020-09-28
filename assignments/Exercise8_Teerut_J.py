@@ -30,6 +30,7 @@ if userName == "admin" and passWord == "1234":
         menu = "Mocha"
         price = 55
     else:
+        menu = ""
         print(" Incorrect Menu ")
 
     if menu != "":
